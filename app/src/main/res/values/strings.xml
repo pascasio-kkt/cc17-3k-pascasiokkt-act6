@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">30 Days PetCare </string>
+    <string name="D1">DAY 1</string>
+    <string name="Tip1">Feed a balanced diet tailored to your pet\'s age, size, and breed.</string>
+    <string name="D2">DAY 2</string>
+    <string name="Tip2">Avoid overfeeding to prevent obesity.</string>
+    <string name="D3">DAY 3</string>
+    <string name="Tip3">Take your pet for daily walks to maintain their physical health.</string>
+    <string name="D4">DAY 4</string>
+    <string name="Tip4">Engage in interactive play sessions to stimulate your pet mentally.</string>
+    <string name="D5">DAY 5</string>
+    <string name="Tip5"> Brush your pet\'s coat regularly to keep it healthy and reduce shedding.</string>
+    <string name="D6">DAY 6</string>
+    <string name="Tip6">Bathe your pet regularly, but not too often to avoid drying out their skin.</string>
+    <string name="D7">DAY 7</string>
+    <string name="Tip7">Schedule annual vet visits for check-ups and vaccinations.</string>
+    <string name="D8">DAY 8</string>
+    <string name="Tip8">Have a pet first aid kit ready for emergencies.</string>
+    <string name="D9">DAY 9</string>
+    <string name="Tip9">Teach your pet basic commands like sit, stay, and come.</string>
+    <string name="D10">DAY 10</string>
+    <string name="Tip10">Use positive reinforcement with treats and praise to encourage good behavior.</string>
+    <string name="D11">DAY 11</string>
+    <string name="Tip11">Pet-proof your home by removing hazards like toxic plants and small objects.</string>
+    <string name="D12">DAY 12</string>
+    <string name="Tip12">Keep your pet’s ID tags information up to date.</string>
+    <string name="D13">DAY 13</string>
+    <string name="Tip13">Provide puzzle toys that challenge your pet mentally.</string>
+    <string name="D14">DAY 14</string>
+    <string name="Tip14">Conduct regular training sessions to keep your pet’s mind active.</string>
+    <string name="D15">DAY 15</string>
+    <string name="Tip15">Allow your pet to interact with other pets and people for socialization.</string>
+    <string name="D16">DAY 16</string>
+    <string name="Tip16">Visit pet parks for socialization and exercise.</string>
+    <string name="D17">DAY 17</string>
+    <string name="Tip17">Ensure your pet has a comfortable and clean place to sleep.</string>
+    <string name="D18">DAY 18</string>
+    <string name="Tip18">Keep your pet cool in summer and warm in winter.</string>
+    <string name="D19">DAY 19</string>
+    <string name="Tip19">Spend quality time with your pet to strengthen your bond.</string>
+    <string name="D20">DAY 20 </string>
+    <string name="Tip20">Show your pet love and affection regularly.</string>
+    <string name="D21">DAY 21</string>
+    <string name="Tip21">Trim your pet’s nails to prevent overgrowth and discomfort.</string>
+    <string name="D22">DAY 22</string>
+    <string name="Tip22">Brush your pet’s teeth to maintain oral health.</string>
+    <string name="D23">DAY 23</string>
+    <string name="Tip23">Check for fleas and ticks regularly and use preventive treatments.</string>
+    <string name="D24">DAY 24</string>
+    <string name="Tip24">Monitor your pet for any changes in behavior or health.</string>
+    <string name="D25">DAY 25</string>
+    <string name="Tip25">Ensure your pet has access to fresh water at all times.</string>
+    <string name="D26">DAY 26</string>
+    <string name="Tip26">Create a safe space where your pet can retreat and relax.</string>
+    <string name="D27">DAY 27</string>
+    <string name="Tip27">Keep your pet’s living area clean and hygienic.</string>
+    <string name="D28">DAY 28</string>
+    <string name="Tip28">Introduce new toys and activities to prevent boredom.</string>
+    <string name="D29">DAY 29</string>
+    <string name="Tip29"> Learn pet CPR for emergencies.</string>
+    <string name="D30">DAY 30</string>
+    <string name="Tip30">Celebrate your pet’s milestones with special exercise and health treats.</string>
+
+
+
+</resources>
